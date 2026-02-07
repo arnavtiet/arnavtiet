@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m a full-stack developer skilled in MERN stack and Python/Django, with hands-on experience building real-world web applications, REST APIs, and database-driven systems.
 I enjoy working on backend logic, scalable architectures, and AI-assisted features, while also building clean and responsive frontends.
-🔧 Tech: React, Node.js, Express, MongoDB, Python, Django, PostgreSQL, Docker, Git
+
 🤝 Open to: Collaborations, open-source contributions, and fresher opportunities
 
 
