@@ -1,5 +1,8 @@
 # 💫 About Me:
-I’m a full-stack developer with hands-on experience in MERN stack and Python/Django, focused on building scalable, real-world applications. I enjoy working across the stack—from designing clean APIs and backend logic to creating responsive, user-friendly frontends.<br><br>I’ve worked on projects involving REST APIs, authentication, databases, ML-powered features, and deployment using Docker and cloud platforms. I’m particularly interested in backend systems, AI-assisted applications, and clean software architecture.<br><br>💻 Tech Stack<br><br>Frontend: React, JavaScript, HTML, CSS<br><br>Backend: Node.js, Express.js, Python, Django, Django REST Framework<br><br>Databases: MongoDB, PostgreSQL, SQL<br><br>Tools: Git, Docker, Streamlit, VS Code, Jupyter<br><br>ML: Scikit-learn, Pandas, Matplotlib, PyTorch (basics)<br><br>🚀 What I’m Looking For<br><br>Entry-level / fresher opportunities<br><br>Open-source collaboration<br><br>Backend, full-stack, or Python-based projects<br><br>Learning from experienced developers and contributing meaningfully<br><br>🤝 Let’s Collaborate<br><br>If you’re working on an interesting project, need help building features, or want to collaborate on open source—feel free to reach out. I’m always eager to learn and contribute.<br><br>📫 GitHub: https://github.com/arnavtiet<br><br>🔗 LinkedIn: https://www.linkedin.com/in/arnav-chaudhary-ba4773264
+I’m a full-stack developer skilled in MERN stack and Python/Django, with hands-on experience building real-world web applications, REST APIs, and database-driven systems.
+I enjoy working on backend logic, scalable architectures, and AI-assisted features, while also building clean and responsive frontends.
+🔧 Tech: React, Node.js, Express, MongoDB, Python, Django, PostgreSQL, Docker, Git
+🤝 Open to: Collaborations, open-source contributions, and fresher opportunities
 
 
 ## 🌐 Socials:
